@@ -1,0 +1,146 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.postimg.cc/kXvbsgCP/89e442b0f789e5cabcf47b0b9c549720.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92.png" channelId="6",НТВ
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.ibb.co/7S8p4Hw/ren-logo.jpg" logo="https://i.postimg.cc/4dWqkhrk/6900abad5b72092009961dfa20d42abc.png" channelId="11",Рен ТВ
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://i.postimg.cc/3xh96X00/bb0fe67f7ce64c04706db96b2eccdd2e.png" logo="https://i.postimg.cc/X7dQQHq0/a45aed909a51d78c8119320ae6c356ae.png" channelId="138",Мир
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://i.postimg.cc/BQXHps5z/ab8c1792aec7a49953627fe997774bb9.png" logo="http://overlay.iptvin.fun/epg/PIC/TVCENTR.png" channelId="13",ТВ Центр
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17",Звезда
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый канал
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://i.ibb.co/S568FVP/014-domashniy-1.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21",Домашний
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://i.postimg.cc/pL0nNcy0/e4c7a5238a07abf9f03cff9cced65b83.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5",Россия К
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="vsio-tv" tvg-logo="https://s26037.cdn.ngenix.net/sdp/sib/nclogo1589611840425.png" channelId="211",Всё ТВ HD
+#EXTGRP:Информационные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wnmw6ZR/KSZZC2-a-200x200.jpg" channelId="-1",Выборг ТВ
+#EXTGRP:Информационные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_VMK/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvQZLbh/78-s.jpg" channelId="115" tvg-id="78kanal",Канал 78
+#EXTGRP:Информационные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://i.ibb.co/5jwh2XC/18805e851492257841dea2b12048495a.png" logo="https://i.ibb.co/rt8NThT/35dafd6f5cd34b7de01c5ce1c682b785.png" channelId="153",Москва 24
+#EXTGRP:Информационные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия-24
+#EXTGRP:Информационные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-logo="https://i.postimg.cc/Y2GZ7S4M/6e25856b758880f20c9f6d8d97c19708.png" logo="https://i.postimg.cc/0QLtjp6x/90eb1e925711230834b85843d182e481.png" channelId="3923",Наша Сибирь 4K HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://img16.lostpic.net/2019/10/28/3d1a38e8f1177b7d6455213f14f36f02.png" channelId="2662",Russian Extreme Ultra HD
+#EXTGRP:Спортивные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4",Матч ТВ
+#EXTGRP:Спортивные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.ibb.co/S3fJTns/024614b06bdfdc2444ef5229fab8773c.png" logo="https://i.ibb.co/9YYnQ40/22654940aeed4b5e8654e5c870d2915a.png" channelId="14",2x2
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="doverie" tvg-logo="http://only4.tv/ch/417.png" channelId="395",Москва. Доверие
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="https://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26",Пятница
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://i.postimg.cc/wM333mmq/a0c23df588be812ab898fbf1e1813d41.png" logo="https://i.postimg.cc/q7fKYjC8/f58b0704a520aadcc7f197802c32c9de.png" channelId="1571",СТС Love
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://i.ibb.co/ySYJLPd/ctc-logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12",СТС
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="https://i.ibb.co/bWrxCmQ/034-subbota.jpg" logo="https://i.ibb.co/kJdxCgQ/Subbota-220x132-tr.png" channelId="3876" shift="3",Суббота
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://i.postimg.cc/CKdmB1wL/4527286dada5083b83bb0d03fabfa5ae.png" logo="https://i.postimg.cc/vHMh7XGK/0445f903c7bc8f136486a8cefd534321.png" channelId="8",ТВ3
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="teotv" tvg-logo="https://i.postimg.cc/MpGYNFzT/d051a6c4657fdede0e501c837652be01.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%A2%D0%95%D0%9E%20%D0%A2%D0%92.png" channelId="-1",ТЕО-ТВ HD
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16",ТНТ
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="che" tvg-logo="https://i.ibb.co/d4S6vpx/che-s.jpg" logo="https://i.ibb.co/p0vW9JQ/CHe-220x132-tr.png" channelId="22",Че
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://i.ibb.co/C5gWgHw/027-u.jpg" logo="https://i.ibb.co/HFQRwfT/YU-220x132-tr.png" channelId="23",Ю
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20",Карусель
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" logo="https://i.ibb.co/Y83h9nk/Solnce-220x132-tr.png" channelId="958",Солнце
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="matur-tv" tvg-logo="http://teleon.tv/images/logos/matur-tv.png" logo="https://i.postimg.cc/3JN7R3BF/42d1f2b0148e319bf9972f0303b7347e.png" channelId="-1",Матур ТВ
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://i.ibb.co/3sVNDxk/25a360b6fee73e109c13d9cb87be8500.png" logo="https://i.ibb.co/5hbfrG1/39cf8ffa0c8c658be1d5ed50c0fd61be.png" channelId="136",Муз ТВ
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="http://epg.one/img/2743.png" logo="http://overlay.iptvin.fun/epg/PIC/Ultra%20HD%20Cinema%204K.png" channelId="3982",Ultra HD Cinema
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8
+
